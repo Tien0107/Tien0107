@@ -1,3 +1,6 @@
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+{{ formatTime .UpdatedAt }}
+
 ## Today's Weather
 <div align="center">
 
