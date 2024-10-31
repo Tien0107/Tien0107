@@ -19,7 +19,7 @@
 ## Today's Weather
 <div align="center">
 
-`Hanoi, Vietnam - 31/10/2024`
+`DaNang, Vietnam - 31/10/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
