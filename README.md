@@ -13,5 +13,4 @@
 > ### HAVE A NICE DAY !
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tien0107&theme=dark&hide_border=true&locale=vi&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tien0107&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
