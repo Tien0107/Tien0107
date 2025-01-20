@@ -15,9 +15,8 @@
 ##  <center>GoalBoard</center>
 
 
-<center>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tien0107&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
-</center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tien0107&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+
 
 ## Today's Weather
 <div align="center">
